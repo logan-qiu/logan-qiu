@@ -54,5 +54,5 @@
 
 ---
 
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-qiu&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-qiu&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

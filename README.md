@@ -4,7 +4,8 @@
 
 ### About Me
 
-Financial Adviser turned Full-Stack Engineer experienced in web development and passionate about problem solving.
+- Full Stack Software Engineer located in San Francisco Bay Area
+- Prior life before engineering: I was a Financial Advisor
 
 ---
 

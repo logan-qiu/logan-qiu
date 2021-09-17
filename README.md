@@ -4,8 +4,7 @@
 
 ### About Me
 
-- I'm a Full Stack Software Engineer in San Francisco Bay Area
-- Fun-fact: I used to be a Financial Advisor before transitioning to software
+Financial Adviser turned Full-Stack Engineer experienced in web development and passionate about problem solving.
 
 ---
 

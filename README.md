@@ -6,7 +6,7 @@
 
 - Full Stack Software Engineer located in San Francisco Bay Area
 - Prior life before engineering: I was a Financial Advisor
-- <a href="http://www.loganqiu.org/">Feel free to check out my website!</a> 
+- Feel free to check out my <a href="http://www.loganqiu.org/">website!</a> 
 
 ---
 

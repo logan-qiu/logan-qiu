@@ -56,7 +56,5 @@
 #### Design Library
 ![material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
----
 
-[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logan-qiu&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

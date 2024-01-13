@@ -5,7 +5,6 @@
 ### About Me
 
 - Full Stack Software Engineer located in San Francisco Bay Area
-- Prior life before engineering: I was a Financial Advisor
 - Feel free to check out my <a href="http://www.loganqiu.org/">website!</a> 
 
 ---

@@ -1,7 +1,5 @@
 ## Hi there, I'm Logan Qiu 👋
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loganqiu/)](https://www.linkedin.com/in/loganqiu/)
-
 ### About Me
 
 - Full Stack Software Engineer located in San Francisco Bay Area

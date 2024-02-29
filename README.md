@@ -52,6 +52,7 @@
 
 #### Design Library
 ![material ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 
 
